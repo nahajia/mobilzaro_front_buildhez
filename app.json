@@ -23,11 +23,8 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF",
-        "permissions": [
-          "STEP_COUNTER",
-          "ACTIVITY_RECOGNITION"
-        ]
+        "backgroundColor": "#FFFFFF"
+       
       },
       "package": "com.nahajia.AwesomeProject"
     },
